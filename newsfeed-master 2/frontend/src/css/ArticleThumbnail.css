@@ -1,0 +1,17 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+#commentstn{
+  font-size: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+#iconcoltn{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#commentstn a:hover{
+	color: royalblue;
+}
