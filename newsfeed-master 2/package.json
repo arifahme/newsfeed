@@ -22,7 +22,7 @@
     "global": "^4.3.2",
     "heap": "^0.2.6",
     "jquery": "^3.4.0",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "mongoose-encryption": "^2.0.2",
     "mysql": "^2.17.1",
     "nodemon": "^1.18.11",
