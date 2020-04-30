@@ -21,7 +21,7 @@
     "express-session": "^1.16.1",
     "global": "^4.3.2",
     "heap": "^0.2.6",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "mongoose": "^5.5.2",
     "mongoose-encryption": "^2.0.2",
     "mysql": "^2.17.1",
